@@ -4,11 +4,11 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>nl.revolution.a4jd</groupId>
-	<artifactId>demo</artifactId>
+	<artifactId>a4jd-demo-backend</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>jar</packaging>
 
-	<name>demo</name>
+	<name>a4jd-demo-backend</name>
 	<description>Demo project for Spring Boot</description>
 
 	<parent>
